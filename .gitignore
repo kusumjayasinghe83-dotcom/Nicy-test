@@ -1,0 +1,6 @@
+config.env
+.env
+node_modules/
+lib/auth_info_baileys/*
+!lib/auth_info_baileys/auth_info_baileys
+lib/store.json
